@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fuzzyneuralnetwork.cpp"
+            timestampString = "529925288.927406"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "166"
+            endingLineNumber = "166"
+            landmarkName = "FuzzyNeuralNetwork::trainWeights(vector&lt;vector&lt;double&gt;&gt; trainSet, vector&lt;int&gt; classes, int clCount, int inpDimension, int numOfWeights, double da, double db, double dc, double cinit, int stopTime)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fuzzyneuralnetwork.cpp"
+            timestampString = "529925288.927995"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "224"
+            endingLineNumber = "224"
+            landmarkName = "FuzzyNeuralNetwork::trainWeights(vector&lt;vector&lt;double&gt;&gt; trainSet, vector&lt;int&gt; classes, int clCount, int inpDimension, int numOfWeights, double da, double db, double dc, double cinit, int stopTime)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fuzzyneuralnetwork.cpp"
+            timestampString = "529925288.928365"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "221"
+            endingLineNumber = "221"
+            landmarkName = "FuzzyNeuralNetwork::trainWeights(vector&lt;vector&lt;double&gt;&gt; trainSet, vector&lt;int&gt; classes, int clCount, int inpDimension, int numOfWeights, double da, double db, double dc, double cinit, int stopTime)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fuzzyneuralnetwork.cpp"
+            timestampString = "529925288.928776"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "211"
+            endingLineNumber = "211"
+            landmarkName = "FuzzyNeuralNetwork::trainWeights(vector&lt;vector&lt;double&gt;&gt; trainSet, vector&lt;int&gt; classes, int clCount, int inpDimension, int numOfWeights, double da, double db, double dc, double cinit, int stopTime)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "fuzzyneuralnetwork.cpp"
+            timestampString = "529925288.92908"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "187"
+            endingLineNumber = "187"
+            landmarkName = "FuzzyNeuralNetwork::trainWeights(vector&lt;vector&lt;double&gt;&gt; trainSet, vector&lt;int&gt; classes, int clCount, int inpDimension, int numOfWeights, double da, double db, double dc, double cinit, int stopTime)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
